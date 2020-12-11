@@ -1,8 +1,6 @@
 # DeepLearning_NHF
 Repository for our Deep Learning homework
 
-Csillagösveny Cserkészcsapat
+Csapatnév: Csillagösveny Cserkészcsapat
 
-Takáts Bálint,
-Oszvald Levente, 
-Mészáros Gergő
+Csapattagok: Takáts Bálint, Oszvald Levente, Mészáros Gergő
