@@ -3,6 +3,6 @@ Repository for our Deep Learning homework
 
 Csillagösveny Cserkészcsapat
 
-Takáts Bálint
-Oszvald Levente 
-Mészáros gergő
+Takáts Bálint,
+Oszvald Levente, 
+Mészáros Gergő
